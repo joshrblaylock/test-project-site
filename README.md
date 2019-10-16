@@ -1,3 +1,16 @@
+## Josh Blaylock is evaluating this "Pages" feature for portfolio publishing.  
+<b>Is this bold?</b>  
+*Is this italic emphasized?*  
+**Is this bold emphasized?**  
+***Is this most heavily emphasized?***  
+Spelling is obviouslay not chacked insade of thas edator.
+
+```markdown test
+What does this look like?
+```
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/joshrblaylock/test-project-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
